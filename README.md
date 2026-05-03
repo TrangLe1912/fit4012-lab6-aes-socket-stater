@@ -179,7 +179,6 @@ pytest -q
 - `logs/`
 - `report-1page.md`
 - `threat-model-1page.md`
-- `peer-review-response.md`
 - `sample_input.txt`
 - `sample_output.txt`
 
